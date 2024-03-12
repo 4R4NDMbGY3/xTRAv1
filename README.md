@@ -1,7 +1,1 @@
-# xTRAv1
-Repository for extra textures and models.
-
-# E(x)tra (T)extures and (R)eady-to-use (A)ssets
-Textures released under CC0 - Public Domain  |  https://creativecommons.org/public-domain/cc0/
-
-3D assets released under FreeNCNCv1.0 | http://therandumbrepository.whf.bz/about.html#FreeNCNCv1
+No longer wasting my time and effort helping entitled, ungrateful people. I'm sorry to the VERY FEW who actually were grateful enough to say "thank you" in some way or another. The rest just took, asked for more, and couldn't be bothered to show any form of appreciation.
