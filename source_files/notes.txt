@@ -1,1 +1,0 @@
-Save images in 8bit/72dpi
