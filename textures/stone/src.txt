@@ -1,3 +1,0 @@
-concrete00 <- concrete25 ambientCG
-
-rock00 <- rock041 ambientCG

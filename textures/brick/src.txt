@@ -1,2 +1,0 @@
-brick00 <- bricks076a ambientCG
-    _01 <- _075a
